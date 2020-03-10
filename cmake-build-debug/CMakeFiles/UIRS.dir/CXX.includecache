@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/andie/CLionProjects/UIRS/et_kovar_funcsion.cc
+et_kovar_funcsion.h
+C:/Users/andie/CLionProjects/UIRS/et_kovar_funcsion.h
+fstream
+-
+cmath
+-
+mgl2/mgl.h
+-
+
+C:/Users/andie/CLionProjects/UIRS/et_kovar_funcsion.h
+iostream
+-
+vector
+-
+string
+-
+

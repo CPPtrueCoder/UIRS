@@ -1,0 +1,3 @@
+C:/Users/andie/CLionProjects/UIRS/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/andie/CLionProjects/UIRS/cmake-build-debug/CMakeFiles/UIRS.dir
+C:/Users/andie/CLionProjects/UIRS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
